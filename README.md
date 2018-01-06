@@ -9,12 +9,13 @@
 <hr>
 
 <p>
-アプリケーション
+この回路を用いて、アプリケーション
+</p>
 
 <hr>
 
 <img src="https://cdn.sparkfun.com/assets/learn_tutorials/5/1/2/example_circuit_bb.png" width=300px>
-<p><a href="https://cdn.sparkfun.com/assets/learn_tutorials/5/1/2/example_circuit_bb.png">回路図の構想（Reference） その1</a></p>
+<p><a href="https://cdn.sparkfun.com/assets/learn_tutorials/5/1/2/example_circuit_bb.png">回路図の構想（Reference） その2</a></p>
 
 <hr>
                                                                                                    
